@@ -1,4 +1,4 @@
-package org.nowstart.spring;
+package org.nowstart.autotrade;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
