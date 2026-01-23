@@ -3,3 +3,7 @@ spring:
     name: auto-trade
   config:
     import: ${SPRING_CONFIG_IMPORT:optional:configserver:https://spring.nowstart.org/config}
+
+upbit:
+  access-key: ${UPBIT_ACCESS_KEY:your-access-key}
+  secret-key: ${UPBIT_SECRET_KEY:your-secret-key}
